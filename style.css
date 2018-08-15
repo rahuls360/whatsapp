@@ -13,3 +13,17 @@ ol {
 .navbar-nav {
   width: 100%;
 }
+
+.group-chat-name {
+  background: #EBEBE3;
+  padding: 10px;
+}
+
+.owner {
+  background: #e2ffc9;
+  margin-left: 10%;
+}
+
+.group-text {
+  margin-right: 10%;
+}
