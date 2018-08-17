@@ -27,3 +27,8 @@ ol {
 .group-text {
   margin-right: 10%;
 }
+
+#chat {
+  height: calc(100vh - 65px);
+  background-color: #F7F7F7;
+}
