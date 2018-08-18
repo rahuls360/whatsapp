@@ -28,12 +28,12 @@ ol {
   margin-right: 10%;
 }
 
-#chat {
+.chat {
   height: calc(100vh - 65px);
   background-color: #F7F7F7;
 }
 
-#individual-chat {
-  height: calc(100vh - 65px);
-  background-color: #F7F7F7;
+.name,
+.about {
+  background: white;
 }
